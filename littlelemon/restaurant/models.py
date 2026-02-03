@@ -11,6 +11,8 @@ class Menu (models.Model):
     id = models.IntegerField(primary_key= True, default=5)
     title = models.CharField(max_length=255)
 
+
+
 class MenuItem(models.Model):
     title = models.CharField(max_length=100)
     description = models.TextField(blank=True)
@@ -18,5 +20,4 @@ class MenuItem(models.Model):
     inventory = models.IntegerField(default=0)
 
     def __str__(self):
-        return self.title
-    
+        return f'{self.title} : {str(self.price)}'
