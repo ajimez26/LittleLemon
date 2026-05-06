@@ -67,7 +67,7 @@ From a cybersecurity standpoint, this project demonstrates:
 ## 👤 About Me
 I am an entry-level cybersecurity professional with a strong interest in security operations, threat detection, and secure system design. I combine hands-on cybersecurity training with backend development skills to better understand how systems are built and how they can be protected.
 
-🔗 Cybersecurity Portfolio (Incident Response & Analysis): [Insert Google Drive Link]  
-🔗 LinkedIn: [Insert Link]
+🔗 Cybersecurity Portfolio (Incident Response & Analysis): [(https://drive.google.com/drive/folders/1TJnQDK8XsnvhEOJGWUO17YSjw_Z6wGqm?usp=drive_link)]  
+🔗 
 
 ---
